@@ -1,7 +1,7 @@
 {
-  "name": "package-1",
+  "name": "package-2",
   "version": "1.0.0",
-  "description": "Sample package 1",
+  "description": "Sample package 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,7 @@
     "url": "https://github.com/phatnguyenuit/nodejs-workspace-template/issues"
   },
   "homepage": "https://github.com/phatnguyenuit/nodejs-workspace-template#readme",
-  "devDependencies": {},
   "dependencies": {
-    "dayjs": "^1.11.6"
+    "package-1": "^1.0.0"
   }
 }
